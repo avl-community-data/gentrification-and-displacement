@@ -1,0 +1,1 @@
+This work is licensed under a Creative Commons CCZero 1.0 License/Waiver. You may find a human-readable summary [here](https://creativecommons.org/publicdomain/zero/1.0/). The full legal text is [here](./CC0.html).
